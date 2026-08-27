@@ -15,7 +15,7 @@ const LINKS = [
   { label: 'Pricing', to: { pathname: '/', hash: '#pricing' } },
   { label: 'Contact', to: { pathname: '/', hash: '#contact' } },
   { label: 'Courses', to: '/courses' },
-  { label: 'Shop', to: { pathname: '/', hash: '#novomall' } },
+  { label: 'Store', to: { pathname: '/', hash: '#novomall' } },
 ];
 
 export function Nav() {
