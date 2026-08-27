@@ -14,77 +14,77 @@ const SERVICES: ServiceItem[] = [
 {
   title: 'Custom Business Websites',
   description: 'Conversion-focused marketing sites built for growing companies.',
-  price: 'Starting at $500'
+  // price: 'Starting at $500'
 },
 {
   title: 'Portfolio Websites',
   description: 'Elegant personal and creative portfolios that stand out.',
-  price: 'Starting at $300'
+  // price: 'Starting at $300'
 },
 {
   title: 'Enterprise Web Applications',
   description: 'Complex, scalable systems with dashboards, roles, and data.',
-  price: 'Starting at $1,200'
+  // price: 'Starting at $1,200'
 },
 {
   title: 'E-commerce Development',
   description: 'Storefronts, carts, and checkout flows that sell.',
-  price: 'Starting at $700'
+  // price: 'Starting at $700'
 },
 {
   title: 'AI Chatbots',
   description: 'Intelligent assistants powered by modern LLM APIs.',
-  price: 'Starting at $800'
+  // price: 'Starting at $800'
 },
 {
   title: 'AI Business Automation',
   description: 'Automate repetitive workflows and internal operations.',
-  price: 'Starting at $600'
+  // price: 'Starting at $600'
 },
 {
   title: 'ASP.NET Development',
   description: 'Robust backends and services built on ASP.NET Core.',
-  price: 'Starting at $600'
+  // price: 'Starting at $600'
 },
 {
   title: 'Python / Django Development',
   description: 'Fast, maintainable applications and data services.',
-  price: 'Starting at $600'
+  // price: 'Starting at $600'
 },
 {
   title: 'REST API Development',
   description: 'Well-documented, secure, and scalable APIs.',
-  price: 'Starting at $300'
+  // price: 'Starting at $300'
 },
 {
   title: 'Payment Gateway Integration',
   description: 'Stripe, PayPal, and local gateways integrated cleanly.',
-  price: 'Starting at $300'
+  // price: 'Starting at $300'
 },
 {
   title: 'Dashboard Development',
   description: 'Data-rich admin panels and analytics interfaces.',
-  price: 'Starting at $500'
+  // price: 'Starting at $500'
 },
 {
   title: 'Website Maintenance',
   description: 'Ongoing updates, monitoring, and support.',
-  price: 'Starting at $100/month'
+  // price: 'Starting at $100/month'
 },
 {
   title: 'Bug Fixing',
   description: 'Rapid diagnosis and resolution of issues.',
-  price: '$50/hour'
+  // price: '$50/hour'
 },
 {
   title: 'Technical Consultation',
   description: 'Architecture, strategy, and code review sessions.',
-  price: '$60/hour'
+  // price: '$60/hour'
 },
 {
   title: 'Training and Workshops',
   description: 'Hands on training and interactive workshops for teams and individuals.',
-  price: '$35-$60/hour'
+  // price: '$35-$60/hour'
 }];
 
 
