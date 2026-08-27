@@ -48,9 +48,9 @@ export function About() {
         <Reveal delay={0.1} className="order-1 md:order-2">
           <p className="text-lg leading-relaxed text-[#555555]">
             I'm{' '}
-            <span className="font-semibold text-black">George Nathan</span>, a Founder, Full
+            <span className="font-semibold text-black">George Nathan</span>,  Founder, Full
             Stack Software Engineer specializing in building scalable, reliable
-            software for startups, businesses, and organizations. My work spans
+            software for startups, businesses, organizations and individuals. My work spans
             modern web platforms, enterprise applications, AI-powered products, and
             business automation systems.
           </p>
