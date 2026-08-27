@@ -60,14 +60,14 @@ const COURSES = [
     ],
   },
   {
-    title: 'Launch Your First App',
-    description: 'Combine AI, Python, and automation to publish a real project in days.',
+    title: 'Organization',
+    description: 'Combine AI, Notetaking and Organizational skills  .',
     icon: BookOpenIcon,
     label: 'Free course',
     details: [
       'From idea to launch with guided milestones',
-      'Build an app using modern front-end and back-end tools',
-      'Deploy and market your first digital product',
+      'Build your first working program/project/task/todo etc',
+      'Final challange',
     ],
   },
 ];
@@ -142,7 +142,7 @@ export function Courses() {
                   </li>
                 ))}
               </ul>
-
+{/* Decide on the action this button should take. maybe redirect to whatsapp or an onsite learning dash */}
               <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
                 <a
                   href="#contact"
