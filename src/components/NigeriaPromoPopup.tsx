@@ -107,7 +107,7 @@ export function NigeriaPromoPopup() {
             </p>
             <div className="rounded-3xl bg-slate-50 p-4 text-sm text-slate-800 shadow-sm">
               <p className="font-semibold">Local Offer</p>
-              <p className="mt-1 text-lg font-bold text-slate-900">From ₦50,000</p>
+              {/* <p className="mt-1 text-lg font-bold text-slate-900">From ₦50,000</p> */}
               <p className="mt-1 text-slate-600">WhatsApp me now to lock in this local rate.</p>
             </div>
           </div>
